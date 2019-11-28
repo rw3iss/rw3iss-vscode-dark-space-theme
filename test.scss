@@ -1,0 +1,42 @@
+.test {
+
+    // bright colors:
+
+    $blue: #1594FD;     $bluePrevious: #1594FD;
+
+    $yellow: #F0FC16;   $previousYellow: #EDDB3B;
+
+    $orange: #FCAC16;   $orangePrevious: #FF9800;
+
+    $cyan: #16F0FC;     $cyanPrevious: #14F2FA;
+
+    $red: #994735;      $redPrevious: #BA5A47;
+
+    $green: #16FCAC;    $greenPrevious: #10b594;
+
+    // darker colors:
+
+    $blue: #466e8f;             $bluePrevious: #35729a;
+
+    $brown: #999735;            $brownPrev: #9C9F75;
+
+    $seafoamGreen: #359997;     $seafoamGreenPrev: #81B89C;
+
+    // DID NOT CHANGE:
+    $armyGreen: #999735;        $armyGreenPrev: #4A5A46;
+
+    $limeGreen: #729935;        $limeGreenPrev: #CDDC39;
+
+    
+
+    // desaturated color:
+
+
+    $background: #101010;
+    $text: #bbbbbb;
+
+
+
+    // need extra desaturated for:
+    // brown, limeGreen
+}

@@ -1,0 +1,57 @@
+{
+	"name": "dark-space-theme",
+	"description": "Dark Space Theme (rw3iss)",
+	"version": "1.0.0",
+	"author": {
+		"name": "Ryan Weiss",
+		"url": "http://ryanweiss.net"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dark Space Theme (rw3iss)",
+				"uiTheme": "vs-dark",
+				"path": "./dark-space-theme.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"@types/color": "^3.0.0",
+		"@types/node": "12.0.5",
+		"@types/node-fetch": "2.3.5",
+		"color": "^3.1.2",
+		"node-fetch": "^2.6.0",
+		"tslint": "^5.17.0",
+		"typescript": "^3.5.1"
+	},
+	"displayName": "Dark Space Theme (rw3iss)",
+	"engines": {
+		"vscode": "*"
+	},
+	"galleryBanner": {
+		"color": "#212121",
+		"theme": "dark"
+	},
+	"icon": "assets/icon.png",
+	"keywords": [
+		"colorful",
+		"dark",
+		"google",
+		"material",
+		"saturated",
+		"theme",
+		"vscode"
+	],
+	"resolutions": {
+		"@types/node": "10.9.4",
+		"chalk": "2.4.1",
+		"ansi-styles": "3.2.1",
+		"supports-color": "5.5.0"
+	},
+	"scripts": {
+		"update": "ts-node ./src/update.ts"
+	}
+}
