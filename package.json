@@ -1,6 +1,6 @@
 {
 	"name": "dark-space-theme",
-	"description": "Dark Space Theme (rw3iss)",
+	"description": "Dark Space Theme",
 	"version": "1.0.0",
 	"author": {
 		"name": "Ryan Weiss",
@@ -12,7 +12,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Dark Space Theme (rw3iss)",
+				"label": "Dark Space Theme",
 				"uiTheme": "vs-dark",
 				"path": "./dark-space-theme.json"
 			}
@@ -27,7 +27,7 @@
 		"tslint": "^5.17.0",
 		"typescript": "^3.5.1"
 	},
-	"displayName": "Dark Space Theme (rw3iss)",
+	"displayName": "Dark Space Theme",
 	"engines": {
 		"vscode": "*"
 	},
