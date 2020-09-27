@@ -3,7 +3,7 @@
     "name": "Dark Space Theme (rw3iss)",
     "colors": {
       //"activityBar.background": "#424242",
-      "activityBar.dropBackground": "#FFFFFF1F",
+      //"activityBar.dropBackground": "#FFFFFF1F",
       "activityBar.foreground": "#FFFFFF",
       "activityBar.inactiveForeground": "#FFFFFF99",
       "activityBarBadge.background": "#14affc",
@@ -127,7 +127,7 @@
       "notifications.border": "#607D8B",
       "panel.background": "#101010",
       "panel.border": "#607D8B59",
-      "panel.dropBackground": "#FFFFFF1F",
+      //"panel.dropBackground": "#FFFFFF1F",
       "panelTitle.activeBorder": "#607D8B59",
       "panelTitle.activeForeground": "#EEEEEE",
       "panelTitle.inactiveForeground": "#EEEEEE99",

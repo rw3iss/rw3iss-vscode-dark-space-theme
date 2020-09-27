@@ -1,6 +1,14 @@
 # Dark Space Theme
 
 ## Example:
+
+### Window Sample:
+![alt text](https://github.com/rw3iss/vscode_dark-space-theme/blob/master/screenshots/app.png?raw=true)
+
+### Code Sample:
+![alt text](https://github.com/rw3iss/vscode_dark-space-theme/blob/master/screenshots/code.png?raw=true)
+
+### Full Window:
 ![alt text](https://github.com/rw3iss/vscode_dark-space-theme/blob/master/screenshots/window.png?raw=true)
 
 
