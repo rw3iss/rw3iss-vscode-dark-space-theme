@@ -1,5 +1,9 @@
 # Dark Space Theme
 
+## Example:
+![alt text](https://github.com/rw3iss/vscode_dark-space-theme/blob/master/screenshots/window.png?raw=true)
+
+
 ## Install:
 
 Download and copy this folder to:
