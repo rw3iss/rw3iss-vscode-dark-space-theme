@@ -40,11 +40,10 @@ Add these entries to your User's settings.json:
     ".monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit.active": "background: rgb(32,40,50) !important;",
     
     // View container backgrounds (ie. sidebar, open windows):
-    //".monaco-split-view2>.split-view-container": "background: rgb(32,34,36); background: linear-gradient(180deg, rgba(32,34,36,1) 0%, rgba(6,14,20,1) 100%);",
-
-    //".monaco-split-view2>.split-view-container": "background: rgb(26,30,37); background: linear-gradient(180deg, rgba(26,30,37,1) 0%, rgba(12,17,24,1) 100%);",
-    
     ".monaco-split-view2>.split-view-container": "background: rgb(18,26,32); background: linear-gradient(180deg, rgba(18,26,32,1) 0%, rgba(8,18,28,1) 100%);",
+    // Some other nice bakground fades:
+    //".monaco-split-view2>.split-view-container": "background: rgb(32,34,36); background: linear-gradient(180deg, rgba(32,34,36,1) 0%, rgba(6,14,20,1) 100%);",
+    //".monaco-split-view2>.split-view-container": "background: rgb(26,30,37); background: linear-gradient(180deg, rgba(26,30,37,1) 0%, rgba(12,17,24,1) 100%);",
 
     // sidebar / explorer file list background
     ".monaco-workbench .part.activitybar": "background: none !important;",
@@ -60,7 +59,7 @@ Add these entries to your User's settings.json:
     ".monaco-editor .margin-view-overlays .cgmr": "width: 0px !important; display: none;", // hide breakpoints (I don't use them)
     ".monaco-editor .cldr.codicon.codicon-folding-expanded, .monaco-editor .cldr.codicon.codicon-folding-collapsed": "left: 23px !important; width: 20px !important;",
     ".monaco-scrollable-element.editor-scrollable": "left: 46px !important;",
-    ".monaco-editor .margin-view-overlays .line-numbers": "left: 4px !important;"
+    ".monaco-editor .margin-view-overlays .line-numbers": "left: 4px !important;",
 },
 
 "customizeUI.listRowHeight": 18
