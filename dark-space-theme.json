@@ -56,8 +56,8 @@
       "editorIndentGuide.activeBackground": "#292929",
       "editorIndentGuide.background": "#151515",
       "editorInfo.foreground": "#4CAF50",
-      "editorLineNumber.activeForeground": "#7a7a7a",
-      "editorLineNumber.foreground": "#3a3a3a",
+      "editorLineNumber.activeForeground": "#aaaaaa",
+      "editorLineNumber.foreground": "#525252",
       "editorLink.activeForeground": "#14affc",
       "editorOverviewRuler.border": "#7575754D",
       "editorOverviewRuler.commonContentForeground": "#424242",
@@ -214,7 +214,7 @@
       {
         "scope": "comment",
         "settings": {
-          "foreground": "#4a5a46"
+          "foreground": "#697067"
         }
       },
       {
@@ -522,7 +522,7 @@
       {
         "scope": "variable.other.object",
         "settings": {
-          "foreground": "#3377a3" 
+          "foreground": "#3377a3"
         }
       },
       {
@@ -1157,4 +1157,3 @@
       }
     ]
   }
-  
